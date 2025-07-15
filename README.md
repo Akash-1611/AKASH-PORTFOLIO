@@ -1,6 +1,6 @@
 # Akash Kumar's Portfolio Website
 
-<img src="https://res.cloudinary.com/dagggqd6g/image/upload/f_auto,q_auto/crr1owg2oq6jwpm0sych" alt="Portfolio Preview" style="max-width: 100%; height: auto;">
+<img src="./src/assets/dashboard.jpeg" alt="Portfolio Preview" style="max-width: 100%; height: auto;">
 
 
 ## Description
@@ -30,7 +30,7 @@ This repository contains the source code for Akash Kumar's portfolio website. It
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/swarupecenits/swarup-portfolio.git
+   git clone https://github.com/Akash-1611/AKASH-PORTFOLIO.git
 
     Navigate into the project directory:
 
