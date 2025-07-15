@@ -10,8 +10,8 @@ const Preloader = () => {
   return (
     <div className='preloader'>
       <div className="texts-container">
-      <span>Swarup</span>
-      <span>Chanda</span>
+      <span>Akash</span>
+      <span>Kumar</span>
       <span>Portfolio</span>
       </div>
     </div>

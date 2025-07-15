@@ -216,10 +216,10 @@ const Contact = () => {
 
     emailjs
       .sendForm(
-        "service_w7dzhh5",
-        "template_b0q19al",
+        "service_8ycly7v",
+        "template_7qcrasq",
         form.current,
-        "LXKUbff1C0vzu7wIX"
+        "6vRkIT5aUJTxoWzeT"
       )
       .then(
         (result) => {

@@ -91,7 +91,7 @@ function Footer() {
   return (
     <FooterContainer>
       <FooterWrapper>
-        <Logo>Swarup Chanda</Logo>
+        <Logo>Akash Kumar</Logo>
         <Nav>
           <NavLink href="#about">About</NavLink>
           <NavLink href="#skills">Skills</NavLink>
@@ -107,7 +107,7 @@ function Footer() {
           <SocialMediaIcon href={Bio.youtube} target="display"><Youtubeicon /></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-          &copy; 2023 Copyright-All Rights Reserved to Swarup Chanda.
+          &copy; 2023 Copyright-All Rights Reserved to Akash Kumar.
         </Copyright>
 
       </FooterWrapper>

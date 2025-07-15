@@ -37,7 +37,7 @@ const GithubButton = styled.button`
 const GithubButtonComponent = () => {
 
   const handleClick = () => {
-    window.open("https://github.com/swarupecenits", "_blank");
+    window.open("https://github.com/Akash-1611", "_blank");
     // Replace "your-github-username" with your actual GitHub username
   };
 

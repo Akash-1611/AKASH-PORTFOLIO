@@ -1,11 +1,11 @@
-# Swarup Chanda's Portfolio Website
+# Akash Kumar's Portfolio Website
 
 <img src="https://res.cloudinary.com/dagggqd6g/image/upload/f_auto,q_auto/crr1owg2oq6jwpm0sych" alt="Portfolio Preview" style="max-width: 100%; height: auto;">
 
 
 ## Description
 
-This repository contains the source code for Swarup Chanda's portfolio website. It showcases my skills, projects, and experience in a visually appealing manner.
+This repository contains the source code for Akash Kumar's portfolio website. It showcases my skills, projects, and experience in a visually appealing manner.
 
 ## Features
 
@@ -66,7 +66,7 @@ Acknowledgments
 
 Contact
 
-Swarup Chanda - LinkedIn - GitHub
+Akash Kumar - LinkedIn - GitHub
 
 Feel free to reach out if you have any questions or suggestions!
 

@@ -24,7 +24,7 @@ import {
   // headTextAnimation,
 } from "../../utils/motion";
 import StarCanvas from "../canvas/Stars";
-
+import heroImage  from "../../assets/mine.jpeg";
 const HeroSection = () => {
   return (
     <div id="about">
@@ -55,7 +55,7 @@ const HeroSection = () => {
               {/* css styles */}
               <div class="btn_container">
                 <button class="btn-hero">
-                  <a style={{ color: "#fff", textDecoration: "none" }} href="https://drive.google.com/file/d/1WhryeEsULP-3q6lZXpleW26c0jZbB4tz/view" target="blank">Check CV</a> </button>
+                  <a style={{ color: "#fff", textDecoration: "none" }} href="https://drive.google.com/file/d/1fEoojOvihRFTQf-3FSzwp22vkyNK6k0Z/view?usp=sharing" target="blank">Check CV</a> </button>
               </div>
 
               {/* <ResumeButton href={Bio.resume} target="display">
@@ -66,7 +66,7 @@ const HeroSection = () => {
             <HeroRightContainer id="Right">
               <motion.div {...headContentAnimation}>
                 <Tilt>
-                  <Img src="https://res.cloudinary.com/dagggqd6g/image/upload/f_auto,q_auto/ivcxkvbdqmplvap2fwi6" alt="hero-image" />
+                  <Img src={heroImage}  alt="hero-image" />
                 </Tilt>
               </motion.div>
             </HeroRightContainer>
